@@ -1,5 +1,6 @@
 # Project Title : LeetCode July 30 days of Code
 * Contains all the java codes for the LeetCode July 30 days of Code Challenge
+* The problems are commented in the code
 # Getting Started
 * Download the .java files.
 * Run the java code to see the output
